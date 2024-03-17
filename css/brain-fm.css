@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  color: white);
+  font-family: sans-serif;
+}
+
+input[type="button"],button {
+  border-radius: 30px;
+  font-weight: bold;
+  border: 0px;
+  padding: 10px 20px;
+
+}
+
+.section-1 {
+    display: flex;
+    align-items: center;
+    flex-direction: ;
+    gap: ;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+.section-2 {
+    display: flex;
+    align-items: center;
+} 
+
+
+
+h1  {
+    font-size: 10em;
+}
